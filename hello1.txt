@@ -5,4 +5,5 @@ third line is about the branches and added in updateverssion-1
 fourth line added from  local repo we are doing now git hub
 adding some words for practicng the pull fetch merge
 we are done of doing pull merger fetch
-we are learning the merge conflicts 
+we are learning the merge conflicts  gd now we are learning git merge conflicts
+
